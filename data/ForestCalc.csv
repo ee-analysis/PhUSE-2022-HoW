@@ -1,0 +1,4 @@
+﻿INDEX;LABEL;ODDS;LL;UL;CI
+1;Age (older vs younger);1.0;0.5;1.5;0.5, 1.5
+2;Gender (male vs female);1.2;0.8;1.7;0.8, 1.7
+3;Smoker (smoker vs. non smoker);2.0;1.4;2.7;0.4, 2.7
