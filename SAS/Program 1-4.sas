@@ -1,7 +1,7 @@
 /****************************************************************************************
 Program:          Program 1-4.sas
 SAS Version:      SAS 9.4M3
-Developer:        Kriss Harris 
+Developer:        Kriss Harris and Endri Elnadav 
 Date:             2022-11-11
 Purpose:          Used to show how to create the dataset work.HazardRatios_Subgroup_All 
                   for SAS® Graphics HoW. 
